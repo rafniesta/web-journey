@@ -3,5 +3,5 @@ web deveploper the best
 - Laravel
 - Andoroid Studio
 - Conten Creator
-- Belajar Linux
 - Membuat Project untuk android
+- Membuat Landing Page
